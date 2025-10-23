@@ -1,0 +1,25 @@
+{
+  "name": "ethers_auth",
+  "version": "1.0.0",
+  "description": "Learning how blockchain works, maybe use it for authentication module",
+  "homepage": "https://github.com/hocktoh89/ethers_auth#readme",
+  "bugs": {
+    "url": "https://github.com/hocktoh89/ethers_auth/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hocktoh89/ethers_auth.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "ethers": "5.4",
+    "express": "^5.1.0"
+  }
+}
